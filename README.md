@@ -36,11 +36,13 @@ If the airline increases occupancy by just 10%, the projected annual growth is:
 ```text
 ├── Airline_Analysis.ipynb        # Full Jupyter/Colab Analysis
 ├── Airlines_Widescreen.pptx      # Executive Presentation
-├── travel.sqlite                 # Database file (Data link kaggle)
 ├── README.md                     # Project Documentation
 └── images/                       # Visualizations and Charts
 ```
-
+## 📊 Dataset Source
+The data used in this analysis is the **Airline Data Analysis** dataset from Kaggle.
+* **Source:** [Kaggle - Airline Data Analysis](https://www.kaggle.com/datasets/fiazbhk/airline-data-analysis)
+* **Format:** SQLite Database (`travel.sqlite`)
 
 ## 🚀 How to Run
 
