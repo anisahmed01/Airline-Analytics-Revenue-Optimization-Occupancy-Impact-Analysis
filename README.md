@@ -63,3 +63,9 @@ git clone https://github.com/anisahmed01/airline-revenue-and-occupancy-analysis
 ```
 Website: anisahmed.in
 ```
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anisahmed01/airline-revenue-and-occupancy-analysis/main/images/Screenshot%202026-03-28%20185330.png" alt="Dashboard Preview" width="100%"/>
+</p>
