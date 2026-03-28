@@ -1,6 +1,9 @@
 # ✈️ Airline Revenue & Occupancy Analysis (SQL + Python)
 
-![Project Header](https://via.placeholder.com/1000x300?text=Airline+Data+Analysis+Project) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0077B6&center=true&vCenter=true&width=800&lines=✈️+Airline+Revenue+%26+Occupancy+Analysis;SQL+%2B+Python+Data+Project" alt="Project Header" />
+</p>
+
 ## 📌 Business Problem
 The airline industry is facing a profit squeeze due to strict regulations, rising fuel prices, and a tight labor market. The goal of this project is to identify how the airline can **maximize profitability** by optimizing **Occupancy Rates** rather than just increasing ticket prices.
 
