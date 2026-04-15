@@ -2,7 +2,9 @@
 
 
 ## 📌 Business Problem
-The airline industry is facing a profit squeeze due to strict regulations, rising fuel prices, and a tight labor market. The goal of this project is to identify how the airline can **maximize profitability** by optimizing **Occupancy Rates** rather than just increasing ticket prices.
+Airlines operate under high operational costs and competitive pressure, making it difficult to improve profitability through pricing alone.
+
+The key challenge is identifying how factors like seat occupancy, aircraft utilization, and pricing impact overall revenue, and determining strategies to increase profitability without relying on fare hikes.
 
 ## 🎯 Project Objectives
 * **Increase Occupancy Rate:** Identify underperforming flights and fill empty seats.
